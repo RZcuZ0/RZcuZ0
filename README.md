@@ -3,7 +3,7 @@
 
 ### Привет! Я — Александр 🚀
 
-![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=rzcuz0&theme=shades-of-purple&show_icons=true)
+![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=rzcuz0&theme=shades-of-purple&show_icons=true&count_private=true&v=2)
 
 Я будущий разработчик. Сейчас я освоил базу **Python** и делаю свои первые шаги в программировании. В будущем планирую изучить **C++** и создавать компьютерные игры!
 
@@ -27,7 +27,7 @@
 * ⭐️ **[Название_Проекта_5](ссылка)** — Худший из лучших, но если проект попал сюда, значит он хороший.
 
 
-![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=shades-of-purple&layout=compact)
+![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=radial&layout=compact&count_private=true&v=2)
 
 #### 📬 Связаться со мной:
 * 🔊 **Telegram:** [@RZcuZ0](https://t.me/RZcuZ0) — *Пишите сюда! Звук всегда включен, реагирую моментально ⚡*
@@ -41,7 +41,7 @@
 
 ### Hi there! I'm Alexander 🚀
 
-![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=rzcuz0&theme=shades-of-purple&show_icons=true)
+![GitHub Stats](https://github-readme-profile-alpha.vercel.app/api?username=rzcuz0&theme=shades-of-purple&show_icons=true&count_private=true&v=2)
 
 I'm a future developer. Currently, I've mastered the basics of **Python** and I'm taking my first steps in coding. In the future, I plan to learn **C++** and create video games!
 
@@ -64,7 +64,7 @@ Here are my main developments, sorted by complexity and scale:
 * ⭐️ **[Project_Name_4](link)** — More simple compared to the top three, but better than all the rest.
 * ⭐️ **[Project_Name_5](link)** — The worst of the best, but if it made it here, it means it's still a good project.
 
-![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=shades-of-purple&layout=compact)
+![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=radial&layout=compact&count_private=true&v=2)
 
 #### 📬 Contact Me:
 * 🔊 **Telegram:** [@RZcuZ0](https://t.me/RZcuZ0) — *Best choice! Notifications are on, instant reply ⚡*
