@@ -17,7 +17,15 @@
 * 🕹 **Вектор развития:** Изучение C++ и переход в **разработку игр**.
 * 🛠 **Инструменты:** Git, GitHub, VS Code.
 
-#### 🏆 Мои любимые проекты::
+#### 🏆 Мои любимые проекты:
+Здесь собраны мои главные разработки:
+
+* 🥇 **[Название_Проекта_1](ссылка)** — **Самый любимый проект!** Было вложено очень много сил.
+* 🥈 **[caesar_cipher_advanced](https://github.com/RZcuZ0/caesar_cipher_advanced)** — Не менее хороший проект, в который я также вложил много сил.
+* 🥉 **[Название_Проекта_3](ссылка)** — Не такой хороший как два проекта выше, но также имеет место быть.
+* ⭐️ **[Название_Проекта_4](ссылка)** — Более простеньй по сравнению с тройков лидеров, но лучше чем все остальные.
+* ⭐️ **[Название_Проекта_5](ссылка)** — Худший из лучших, но если проект попал сюда, значит он хороший.
+
 
 ![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=shades-of-purple&layout=compact)
 
@@ -48,6 +56,13 @@ I'm a future developer. Currently, I've mastered the basics of **Python** and I'
 * 🛠 **Tools:** Git, GitHub, VS Code.
 
 #### 🏆 Favorite Projects:
+Here are my main developments, sorted by complexity and scale:
+
+* 🥇 **[Project_Name_1](link)** — **My most favorite project!** A massive amount of effort went into this one.
+* 🥈 **[caesar_cipher_advanced](https://github.com/RZcuZ0/caesar_cipher_advanced)** — An equally great project that I also put a lot of work into.
+* 🥉 **[Project_Name_3](link)** — Not as advanced as the top two, but still has a solid place here.
+* ⭐️ **[Project_Name_4](link)** — More simple compared to the top three, but better than all the rest.
+* ⭐️ **[Project_Name_5](link)** — The worst of the best, but if it made it here, it means it's still a good project.
 
 ![GitHub Languages](https://github-readme-profile-alpha.vercel.app/api/top-langs?username=rzcuz0&theme=shades-of-purple&layout=compact)
 
